@@ -1,6 +1,6 @@
 # feelme
 
-A new Flutter project.
+Mental health controller app.
 
 ## Getting Started
 
